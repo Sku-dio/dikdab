@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dikdab.iml" filepath="$PROJECT_DIR$/.idea/dikdab.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/个人中心/.idea/评论页.iml" filepath="$APPLICATION_HOME_DIR$/个人中心/.idea/评论页.iml" />
+    </modules>
+  </component>
+</project>
